@@ -1,2 +1,3 @@
 # Songs_Popularity_Analysis
-Analyzing Song Popularity Trends with R for data-driven insights and visualizations.
+Analyzing Song Popularity Trends with R for statistical data analysis and Tableau for data visualizations to get insights on popular trends and patterns.
+Dataset - Spotify and Youtube
